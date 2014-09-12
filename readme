@@ -1,0 +1,14 @@
+Sublime text 插件整理
+
+1.首先需要安装package control
+
+The simplest method of installation is through the Sublime Text console. The console is accessed via the ctrl+`(有时候是ctrl+f1) shortcut or the View > Show Console menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
+粘贴代码
+https://sublime.wbond.net/installation
+
+2.ctrl+shift+p安装插件
+
+安装完package control后重启sublime text就可以安装插件了，ctrl+shift+p 输入package control:install package，搜索想要的插件。
+
+插件：
+
