@@ -6,9 +6,9 @@ The simplest method of installation is through the Sublime Text console. The con
 粘贴代码
 https://sublime.wbond.net/installation
 
-2.ctrl+shift+p安装插件
+2.ctrl+shift+p(mac command+shift+p)安装插件
 
 安装完package control后重启sublime text就可以安装插件了，ctrl+shift+p 输入package control:install package，搜索想要的插件。
 
-插件：
+插件：jquery,colorpick
 
